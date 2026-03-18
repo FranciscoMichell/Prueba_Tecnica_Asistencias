@@ -34,3 +34,5 @@ Se identificaron los participantes con menor desempeño como aquellos con menor 
 
 \- `peor\_desempeno.csv`: participantes con menor asistencia
 
+
+\- Nota: El proyecto fue desarrollado en R sin experiencia previa en el lenguaje, extrapolando conocimientos de Python y apoyándome en documentación oficial y recursos de aprendizaje para su implementación.
